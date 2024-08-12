@@ -5,6 +5,8 @@ This is a simple Calculator application built using React. The application allow
  ## Live Demo
    You can view live demo for application [here](https://pk1331.github.io/Calculator-using-React-Hooks/)
 
+ ![Calculator_using_React](https://github.com/user-attachments/assets/691cfe35-9a61-4c90-b59c-483628a37199)
+
 ## Features
 
 - Addition, Subtraction, Multiplication, and Division operations
